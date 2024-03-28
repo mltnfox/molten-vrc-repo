@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Molten Asssets",
+    "id":"io.mltn.mltn-assets",
+    "url":"https://mltnfox.github.io/vrc-molten-assets/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"hello@mltn.io",
+        "name":"mltn",
+        "url":"https://mltn.io"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Common scripts and assets that I use between projects.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/mltnfox/vrc-molten-assets",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
